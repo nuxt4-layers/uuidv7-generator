@@ -1,1 +1,1 @@
-# uuidv7-generator
+# @nuxt4-layers/uuidv7-generator
